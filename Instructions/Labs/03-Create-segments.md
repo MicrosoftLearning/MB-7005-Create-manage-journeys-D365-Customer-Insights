@@ -1,10 +1,17 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 3: Create segments'
+---
+
+## Lab 3: Create segments 
+
+In this lab, you will learn how to:
 - Update information on customer records
 - Create a segment 
 
-### Update the City for different customers
+### Task 1: Update the City for different customers
 
-One of the Journeys will target customers who live in a specific city. To ensure that you will have members in this segment, we need to add a city to each of the contacts that currently exist.
+One of the journeys will target customers who live in a specific city. To ensure that you will have members in this segment, we need to add a city to each of the contacts that currently exist.
 
 1. Log into **Dynamics 365 Customer Insights - Journeys**. Ensure you are in the **Real-time journeys** area.
 
@@ -44,7 +51,8 @@ One of the Journeys will target customers who live in a specific city. To ensure
 
 1. Select the **Save** button.
 
-### Create a segment for Humongous Insurance customers
+### Task 2: Create a segment for Humongous Insurance customers
+
 1. Navigate to **Segments**, under the Audience group.
 
 1. Select **+New Segment.**
@@ -69,7 +77,8 @@ One of the Journeys will target customers who live in a specific city. To ensure
 
 1. Select the **Members and Insights** tab. Verify you see contacts with a Humongous Insurance email or Humongous company name. You may need to refresh or wait a few minutes before the contacts appear.
 
-### Create a business user segment
+### Task 3: Create a business user segment
+
 1. Navigate to **Segments** under the Audience group.
 
 1. Select **+New Segment.**
@@ -86,7 +95,7 @@ One of the Journeys will target customers who live in a specific city. To ensure
 
 1. Select the **Members and insights** tab to view your segment members.
 
-## Create a Contoso segment  
+### Task 4: Create a Contoso segment  
 2.	Navigate to **Segments** under the Audience group. 
 
 3.	Select **+New Segment. **
@@ -104,7 +113,7 @@ One of the Journeys will target customers who live in a specific city. To ensure
 9.	Select the **Members and insights** tab to view your segment members. 
 
 
-### Create a Seattle customers segment
+### Task 5: Create a Seattle customers segment
 1. Navigate to Segments under the Audience group.
 
 1. Select **+New Segment.**
