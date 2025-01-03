@@ -12,7 +12,7 @@ These hands-on labs will walk you through four exercises to configure the applic
 - Create a segment-based journey
 - Create a trigger-based journey
 
-## Exercise 1: Procure a trial and upload assets
+## Lab 1: Procure a trial and upload assets
 You need access to Dynamics 365 Customer Insights to complete this guided project.
 
 ### Task 1: Sign up for a Dynamics 365 Customer Insights trial
