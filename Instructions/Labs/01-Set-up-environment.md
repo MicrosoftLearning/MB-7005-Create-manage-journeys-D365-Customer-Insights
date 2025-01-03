@@ -1,4 +1,7 @@
-# Lab 0: Set up environment
+---
+lab:
+    title: 'Lab 0: Set up environment'
+---
 
 In these lab exercises, you will create a marketing journey, including the elements and assets that customers will see when they receive or interact with the journey.
 
