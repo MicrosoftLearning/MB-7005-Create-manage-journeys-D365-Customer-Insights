@@ -1,9 +1,16 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 2: Create emails'
+---
+
+## Lab 2: Create emails 
+
+In this lab, you will learn how to:
 - Create emails to use in a journey
 - Use uploaded assets in an email
 - Check your email content and go live
 
-## Create your first email
+### Task 1: Create your first email
 1. Log into Dynamics 365 Customer Insights - Journeys.
 
 1. Navigate to the **Real-time journeys** work area.
@@ -25,7 +32,7 @@ In this unit, you will learn how to:
 
 1. Design the email. Refer to the screenshot of Welcome Email 1 below for design and content ideas, using the hero image you uploaded in the setup instructions. You can modify the images and content as desired, but you will want to include a call-to-action button in this email as it will be used as branching criteria within the journey.
 
-    ![Screenshot of Welcome Email 1.](../media/welcome-email-1-example.png)
+    ![Screenshot of Welcome Email 1](../media/welcome-email-1-example.png)
 
 1. Here is some sample copy for this email. You can copy and paste this into your email design. Use **Personalization** to enter dynamic content for the contact's first name. 
 
@@ -55,7 +62,7 @@ In this unit, you will learn how to:
     - Click **Check content**. Correct any errors if needed. 
     - Click **Ready to send.** 
 
-## Create your second email
+### Task 2: Create your second email
 We will create two more emails by copying the email you just created.
 
 1. While Welcome Email 1 is open, click the drop down next to **Save** then select **Save as.**
@@ -89,7 +96,7 @@ We will create two more emails by copying the email you just created.
 
 1. Preview, test, and go live with your email.
 
-## Create your third email
+### Task 3: Create your third email
 We will create one final email by copying email 2.
 
 1. Create a new email by copying email 2. Name the email Welcome email 3. 
