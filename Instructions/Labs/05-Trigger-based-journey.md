@@ -1,8 +1,15 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 5: Create a trigger-based journey'
+---
+
+## Lab 5: Create a trigger-based journey 
+
+In this lab, you will learn how to:
 - Create a journey based on a trigger
 - Define exit criteria for the segment 
 
-## Create a trigger-based journey 
+### Task 1: Create a trigger-based journey 
 1. Navigate to the **Real-time journeys** work area.
 
 1. Under **Engagement**, select **Journeys.**
@@ -33,7 +40,7 @@ In this unit, you will learn how to:
     - In Start, select today, 15 minutes from now.
     - In End, select tomorrow.
 
-## Define the journey goal
+### Task 2: Define the journey goal
 Next, we can identify the specific goal of the Customer Journey.  Goals help to identify what the end point of the journey is.  These can be things like driving a purchase or engaging with customers.  Providing a goal for the journey ensures that the journey is stopped once your objective has been met.    
 
 For this journey, we are looking for a specific percentage of the people we are engaging with to click on a link that is in an email that we send them.  
@@ -46,7 +53,7 @@ For this journey, we are looking for a specific percentage of the people we are 
 
 1.	In **The number of people needed**, enter **50**. Leave the **Percent** option selected. 
 
-## Define a frequency cap for the journey 
+### Task 3: Define a frequency cap for the journey 
 Contoso wants to ensure that they are not overwhelming their customers with commercial messages. To ensure that this does not happen, they want to apply a frequency cap to this journey.   
 
 1.	From the Journey settings on the right, navigate to the **Other Settings** section.
@@ -71,7 +78,7 @@ Contoso wants to ensure that they are not overwhelming their customers with comm
 
 1.	Notice that the Contoso Frequency cap is now applied to this Journey.  
 
-## Build out the trigger-based journey 
+### Task 4: Build out the trigger-based journey 
 Now that we have defined the necessary journey criteria, the next step is to build out the actual journey steps. 
 
 1. In the journey designer, click the **plus icon (+)** under the Contact Created tile.
