@@ -1,8 +1,14 @@
-In this unit, you will learn how to:
+---
+lab:
+    title: 'Lab 4: Create a segment-based journey'
+---
+## Lab 4: Create a segment-based journey 
+
+In this lab, you will learn how to:
 - Create a journey based on a segment 
 - Define exit criteria for the segment 
 
-## Create a segment-based journey 
+### Task 1: Create a segment-based journey 
 Contoso wants to be able to engage with customers that meet specific demographic criteria. To accomplish this, they will create a segment-based journey.
 
 1. Under Engagement, select **Journeys.**
@@ -33,7 +39,7 @@ Contoso wants to be able to engage with customers that meet specific demographic
 
 1. Go to the **Exclude by segments** and select **Business Customers.**
 
-## Define the journey exit criteria
+### Task 2: Define the journey exit criteria
 Since the goal of this journey is to drive people to register for a marketing event, we want to ensure that once they register, no matter where they are in the journey, that the journey ends for them.  Additionally, if any Contoso employees live in Seattle, we want them to be aware of the upcoming event; however, we do not want them to go through the journey itself. For this reason, we are going limit who can continue the journey.  
 
 1.	Select the **Exit** section.  
@@ -56,7 +62,7 @@ Since the goal of this journey is to drive people to register for a marketing ev
 
     ![Screenshot of exit criteria.](../media/complete-exit-criteria.png)
 
-## Build out the journey
+### Task 3: Build out the journey
 Now that we have defined the different criteria related to this journey, we are going to create the journey itself.  
 
 1. In the journey designer, click the **plus icon (+)** under the Contact Created tile.
