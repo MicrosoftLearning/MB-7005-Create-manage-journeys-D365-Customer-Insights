@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Lab 3: Create segments'
+    title: 'Lab 2: Create segments'
 ---
 
-## Lab 3: Create segments 
+## Lab 2: Create segments 
 
 In this lab, you will learn how to:
 - Update information on customer records
