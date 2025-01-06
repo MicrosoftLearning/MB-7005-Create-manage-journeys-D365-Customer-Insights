@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 2: Create emails'
+    title: 'Lab 1: Create emails'
 ---
 
 ## Lab 2: Create emails 
