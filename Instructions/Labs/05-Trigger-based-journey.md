@@ -1,9 +1,9 @@
 ---
 lab:
-    title: 'Lab 5: Create a trigger-based journey'
+    title: 'Lab 4: Create a trigger-based journey'
 ---
 
-## Lab 5: Create a trigger-based journey 
+## Lab 4: Create a trigger-based journey 
 
 In this lab, you will learn how to:
 - Create a journey based on a trigger
