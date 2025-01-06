@@ -3,7 +3,7 @@ lab:
     title: 'Lab 1: Create emails'
 ---
 
-## Lab 2: Create emails 
+## Lab 1: Create emails 
 
 In this lab, you will learn how to:
 - Create emails to use in a journey
