@@ -1,8 +1,8 @@
 ---
 lab:
-    title: 'Lab 4: Create a segment-based journey'
+    title: 'Lab 3: Create a segment-based journey'
 ---
-## Lab 4: Create a segment-based journey 
+## Lab 3: Create a segment-based journey 
 
 In this lab, you will learn how to:
 - Create a journey based on a segment 
