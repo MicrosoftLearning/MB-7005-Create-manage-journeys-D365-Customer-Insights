@@ -52,7 +52,7 @@ Since the goal of this journey is to drive people to register for a marketing ev
 
 1.	Select **Event.**
 
-    ![Screenshot of a list of exit criteria with Event selected.](../media/exit-criteria.png)
+    ![Screenshot of a list of exit criteria with Event selected.](../Labs/Media/exit-criteria.png)
 
 1.  Set the Operator to **Equals.**
 
@@ -60,7 +60,7 @@ Since the goal of this journey is to drive people to register for a marketing ev
 
 1. In **Exit by segments**, set the value to **Contoso Customers.** Your exit criteria should look like the image below.
 
-    ![Screenshot of exit criteria.](../media/complete-exit-criteria.png)
+    ![Screenshot of exit criteria.](../Labs/Media/complete-exit-criteria.png)
 
 ### Task 3: Build out the journey
 Now that we have defined the different criteria related to this journey, we are going to create the journey itself.  
