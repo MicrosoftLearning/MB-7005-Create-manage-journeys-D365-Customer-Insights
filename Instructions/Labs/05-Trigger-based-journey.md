@@ -68,7 +68,7 @@ Contoso wants to ensure that they are not overwhelming their customers with comm
 
 1.	In the Maximum frequency per contact point section, configure based on the image below:
 
-    ![Screenshot of the frequency cap settings, with Email set to Daily 3 and Monthly 10, text message set to Daily 1, Weekly 2, and Monthly 3. Nothing is set for push notification.](../media/frequency-cap.png)
+    ![Screenshot of the frequency cap settings, with Email set to Daily 3 and Monthly 10, text message set to Daily 1, Weekly 2, and Monthly 3. Nothing is set for push notification.](../Labs/Media/frequency-cap.png)
 
 1. Select **Save & Close** to save and close your new Frequency Cap settings.  
 
