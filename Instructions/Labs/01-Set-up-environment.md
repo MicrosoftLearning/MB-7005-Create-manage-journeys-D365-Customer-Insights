@@ -24,13 +24,13 @@ If needed, you can sign up for a trial by following these steps:
 1. On the welcome screen, select **Start Customer Insights - Journeys.** The Customer Insights - Journeys model-driven app will launch in a new tab. You now have both a Customer Insights - Journeys and a Customer Insights - Data trial environment.
 
 ### Task 2: Upload assets to the asset library
-For this guided project, you will need one **hero image** to use in a professional email. You can get the image from your MCT or via your Authorized Lab Host.
+For this guided project, you will need one **hero image** to use in a professional email. You can get the image from your MCT or via your Authorized Lab Host. It will be labeled **hero-image.png.**
 
 To upload the image for use in this lab, follow these steps:
 1. In your **Customer Insights - Journeys** trial, select the **Library** section under **Assets.**
 1. Select **+ New** in the top menu.
 1. In the upload screen, select **+ Add files.**
 1. Select the image from your files and select **Open.**
-1. Select **Upload.** Wait for the image(s) to upload and then select **Close.**
-1. You should now see your image(s) in the **Active files** area.
+1. Select **Upload.** Wait for the image to upload and then select **Close.**
+1. You should now see your image in the **Active files** area.
 
