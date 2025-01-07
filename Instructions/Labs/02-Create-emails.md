@@ -32,7 +32,7 @@ In this lab, you will learn how to:
 
 1. Design the email. Refer to the screenshot of Welcome Email 1 below for design and content ideas, using the hero image you uploaded in the setup instructions. You can modify the images and content as desired, but you will want to include a call-to-action button in this email as it will be used as branching criteria within the journey.
 
-    ![Screenshot of Welcome Email 1](../media/welcome-email-1-example.png)
+![Screenshot of Welcome Email 1](../Media/welcome-email-1-example.png)
 
 1. Here is some sample copy for this email. You can copy and paste this into your email design. Use **Personalization** to enter dynamic content for the contact's first name. 
 
