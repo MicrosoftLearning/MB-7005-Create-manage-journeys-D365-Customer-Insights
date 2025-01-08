@@ -12,7 +12,7 @@ These hands-on labs will walk you through four exercises to configure the applic
 - Create a segment-based journey
 - Create a trigger-based journey
 
-## Lab 1: Set up environment
+## Lab 0: Set up environment
 You need access to Dynamics 365 Customer Insights to complete this lab.
 
 ### Task 1: Sign up for a Dynamics 365 Customer Insights trial
