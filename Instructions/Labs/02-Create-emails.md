@@ -37,6 +37,8 @@ In this lab, you will learn how to:
 1. Here is some sample copy for this email. You can copy and paste this into your email design. Use **Personalization** to enter dynamic content for the contact's first name. 
 
     ```
+    {{FirstName}},
+    
     Thank you for putting your trust in Contoso Insurance. We're honored to have you as a customer and look forward to building a lasting relationship with you. 
  
     As America's \#1 insurance company, we're committed to providing quality insurance that protects all aspects of your business. 
