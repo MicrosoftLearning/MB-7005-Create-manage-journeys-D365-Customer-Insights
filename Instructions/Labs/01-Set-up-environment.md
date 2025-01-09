@@ -26,7 +26,7 @@ If needed, you can sign up for a trial by following these steps:
 ### Task 2: Upload assets to the asset library
 For this guided project, you will need one **hero image** to use in a professional email. You can get the image from your MCT or via your Authorized Lab Host (or in the Allfiles folder of the GitHub). It will be labeled **hero-image.png.**
 
-To upload the image for use in this lab, follow these steps:
+To upload the image for use in these labs, follow these steps:
 1. In your **Customer Insights - Journeys** trial, select the **Library** section under **Assets.**
 1. Select **+ New** in the top menu.
 1. In the upload screen, select **+ Add files.**
