@@ -1,13 +1,8 @@
-# Microsoft Lab Exercises
-<!-- Change the title above as appropriate -->
+# MB-7005 - Create and manage journeys in Dynamics 365 Customer Insights
 
-This repo contains exercises and supporting files for Microsoft skilling content.
+This repo contains exercises and supporting files for MB-7005 - Create and manage journeys with Dynamics 365 Customer Insights. This course is designed for students who are planning on using Dynamics 365 Customer Insights to create and deliver marketing journeys in their careers, or for customer experience analysts who want to learn how to configure Dynamics 365 Customer Insights for an organization.
 
 The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
-<!-- Update thr paragraph above with a link to a specific Learning Path or course as appropriate -->
-
-## Information for MCTs
-<!-- You can remove this section if the exercises will not be used to support Microsoft Official Curriculum ILT -->
 
 **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
