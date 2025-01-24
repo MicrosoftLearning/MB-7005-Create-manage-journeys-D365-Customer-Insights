@@ -32,7 +32,7 @@ In this lab, you will learn how to:
 
 1. Design the email. Refer to the screenshot of Welcome Email 1 below for design and content ideas, using the hero image you uploaded in the setup instructions. You can modify the images and content as desired, but you will want to include a call-to-action button in this email as it will be used as branching criteria within the journey.
 
-![Screenshot of Welcome Email 1.](../Labs/Media/welcome-email-1-example.png) 
+    ![Screenshot of Welcome Email 1.](../Labs/Media/welcome-email-1-example.png) 
 
 1. Here is some sample copy for this email. You can copy and paste this into your email design. Use **Personalization** to enter dynamic content for the contact's first name. 
 
@@ -81,7 +81,7 @@ We will create two more emails by copying the email you just created.
 
 1. Design the email. Refer to the screenshot of Welcome Email 2 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 2.](../Labs/Media/welcome-email-2-example.png) 
+    ![Screenshot of Welcome Email 2.](../Labs/Media/welcome-email-2-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -109,7 +109,7 @@ We will create one final email by copying email 2.
 
 1. Design the email. Refer to the screenshot of Welcome Email 3 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
+    ![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -120,7 +120,8 @@ We will create one final email by copying email 2.
     
     Feel free to contact me with any questions you have. Cheers, 
     John Smith, Insurance Specialist   jsmith@contosoinsurance.com 
-    888-888-8888 
+    888-888-8888
+    ```
 
 1. Update the button in the email. In the **Button text** field, change it to **Click here for the welcome kit.**
 
