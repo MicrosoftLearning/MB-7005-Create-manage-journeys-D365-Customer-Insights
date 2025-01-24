@@ -58,9 +58,7 @@ Since the goal of this journey is to drive people to register for a marketing ev
 
 1.	Set the Value to **Ted Contoso.**
 
-1. In **Exit by segments**, set the value to **Contoso Customers.** Your exit criteria should look like the image below.
-
-    ![Screenshot of exit criteria.](../Labs/Media/complete-exit-criteria.png)
+1. In **Exit by segments**, set the value to **Contoso Customers.** 
 
 ### Task 3: Build out the journey
 Now that we have defined the different criteria related to this journey, we are going to create the journey itself.  
