@@ -46,15 +46,22 @@ In this lab, you will learn how to:
 
 1. Navigate to **Settings** and expand **Compliance.** Ensure the Purpose is set to **Commercial.**
 
-1. Design the email. Refer to the screenshot of Welcome Email 1 below for design and content ideas, using the hero image you uploaded in the setup instructions. You can modify the images and content as desired, but you will want to include a call-to-action button in this email as it will be used as branching criteria within the journey.
+1. Design the email. Refer to the screenshot of Welcome Email 1 below for design and content ideas, using the hero image and logo you uploaded in the setup instructions. You can modify the images and content as desired, but you will want to include a call-to-action button in this email as it will be used as branching criteria within the journey.
 
     ![Screenshot of Welcome Email 1.](../Labs/Media/welcome-email-1-example.png) 
 
-1. Here is some sample copy for this email. You can copy and paste this into your email design. Use **Personalization** to enter dynamic content for the contact's first name. 
+1. Below the images, let's add a text box and use personalization to start the text by referring to the client by name.
+    - Select the **+** below the hero image and select **Text** to add a text box.
+    - Select **Personalize** in the text box editor header. (It will be the last button, directly after the ellipses.)
+    - Select **First name** from the list of dynamic text options.
+    - Keep **Contact** selected as the target audience.
+    - Select **Choose.**
+    - The dynamic text will now be entered into your text box.
+    - Add a comma and a line break after the dynamic text.
+   
+1. Let's add some copy to the text box after the contact's first name. You can copy and paste this into your email design below the line break:
 
     ```
-    {{FirstName}},
-    
     Thank you for putting your trust in Contoso Insurance. We're honored to have you as a customer and look forward to building a lasting relationship with you. 
  
     As America's \#1 insurance company, we're committed to providing quality insurance that protects all aspects of your business. 
@@ -75,10 +82,9 @@ In this lab, you will learn how to:
 1.	Preview, test, and go live with your email. 
 
     - Navigate to the **Preview and test** tab of your email to review your email. 
-    - Use **Test send** to send yourself a copy. Enter your personal email address. Select the contact you created previously - the personalization will fill in this contact's first name. Be sure to check your junk folder if you do not see the email in your inbox. 
-    - Make any final changes. 
-    - Click **Check content**. Correct any errors if needed. 
-    - Click **Ready to send.** 
+    - Use **Test send** to send yourself a copy. Enter your personal email address.
+    - Expand **Audience.** Select the contact you created previously - the personalization will fill in this contact's first name.  
+    - Select **Test send.** You should recieve your email in a few minutes - check your junk folder if you can't find it.
 
 ### Task 2: Create your second email
 We will create two more emails by copying the email you just created.
