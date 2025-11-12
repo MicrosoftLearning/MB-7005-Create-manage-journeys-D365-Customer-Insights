@@ -19,9 +19,9 @@ You need access to Dynamics 365 Customer Insights to complete this lab.
 If needed, you can sign up for a trial by following these steps:
 
 1. In a new browser tab, navigate to https://microsoft.com/dynamics-365/free-trial.
-1. Navigate to the Dynamics 365 Customer Insights box and select **Try for free**. Enter your work email address and check the box to accept the agreement.
+1. Navigate to the Dynamics 365 Customer Insights box and select **Try for free**. Enter the email address provided by your lab provider and check the box to accept the agreement.
 1. Select **Start your free trial.**
-1. Enter your password. Select **Sign in.** (Optionally, select **Yes** to stay signed in.)
+1. Enter your password provided by your lab provider. Select **Sign in.** (Optionally, select **Yes** to stay signed in.)
 1. Select **Launch Trial.**
 1. On the welcome screen, select **Start Customer Insights - Journeys.** The Customer Insights - Journeys model-driven app will launch.
 
