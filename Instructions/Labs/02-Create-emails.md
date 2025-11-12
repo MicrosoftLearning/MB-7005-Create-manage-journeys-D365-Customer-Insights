@@ -10,7 +10,23 @@ In this lab, you will learn how to:
 - Use uploaded assets in an email
 - Check your email content and go live
 
-### Task 1: Create your first email
+### Task 1: Create a new contact 
+1. Log into Dynamics 365 Customer Insights - Journeys.
+
+1. Navigate to the **Real-time journeys** work area.
+
+1. Under **Audience**, select **Contacts.**
+
+1. Select **+New.**
+
+1. Fill out the following details with your (or dummy) information:
+    - First Name
+    - Last Name
+    - Job Title
+
+1. Select **Save and close.**
+
+### Task 2: Create your first email
 1. Log into Dynamics 365 Customer Insights - Journeys.
 
 1. Navigate to the **Real-time journeys** work area.
