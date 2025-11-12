@@ -110,7 +110,8 @@ We will create two more emails by copying the email you just created.
         
     Cheers, 
     John Smith, Insurance Specialist   jsmith@contosoinsurance.com 
-    888-888-8888 
+    888-888-8888
+    ```
 
 1. Preview, test, and go live with your email.
 
