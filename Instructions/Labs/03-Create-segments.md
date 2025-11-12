@@ -55,7 +55,7 @@ One of the journeys will target customers who live in a specific city. To ensure
 
 1. Navigate to **Segments**, under the Audience group.
 
-1. Select **+New Segment.**
+1. Select **+New segment.**
 
 1. In the **Name the segment** box, enter **Humongous Insurance**. Select **Contact** as the target audience. Select **Create.**
 
