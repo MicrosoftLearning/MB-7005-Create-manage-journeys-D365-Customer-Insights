@@ -88,13 +88,13 @@ One of the journeys will target customers who live in a specific city. To ensure
 
 1. Select **Ready to use** in the toolbar.
 
-### Task 3: Create a business user segment
+### Task 3: Create a Contoso segment
 
 1. Navigate to **Segments** under the Audience group.
 
 1. Select **+New Segment.**
 
-1. Name the segment **Business Customers**. Keep **Contact** selected as target audience. Select **Create.**
+1. Name the segment **Contoso Customers**. Keep **Contact** selected as target audience. Select **Create.**
 
 1. Next, we will add **Account** as a related table for this segment.
     - Select **+Add table** from the Related tables area.
@@ -117,20 +117,20 @@ One of the journeys will target customers who live in a specific city. To ensure
 
 1. Wait for your segment to build.
 
-### Task 4: Create a Contoso segment  
-2.	Navigate to **Segments** under the Audience group. 
+### Task 4: Create a business customer segment  
+1.	Navigate to **Segments** under the Audience group. 
 
-3.	Select **+New Segment. **
+1.	Select **+New Segment.**
 
-4.	Name the segment **Contoso Customers**. Keep **Contact** selected as target audience. Select **Create.**
+1.	Name the segment **Business Customers**. Keep **Contact** selected as target audience. Select **Create.**
 
-5.	Add a new group and select **Create attribute group**. In the **Attributes** pane, expand **Contact** and add **Description** to Group 1. 
+1.	Add a new group and select **Create attribute group**. In the **Attributes** pane, expand **Contact** and add **Description** to Group 1. 
 
-6.	In the segment designer, change the qualifier to **Contains**. For the value, enter **Business.**
+1.	In the segment designer, change the qualifier to **Contains**. For the value, enter **Business.**
 
-7.	Select **Save** and then select **Ready for use.** 
+1.	Select **Save** and then select **Ready for use.** 
 
-8.	Wait for your segment to build. 
+1.	Wait for your segment to build. 
 
 ### Task 5: Create a Seattle customers segment
 1. Navigate to Segments under the Audience group.
