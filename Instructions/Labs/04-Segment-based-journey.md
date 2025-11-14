@@ -63,7 +63,7 @@ Since the goal of this journey is to drive people to register for a marketing ev
 ### Task 3: Build out the journey
 Now that we have defined the different criteria related to this journey, we are going to create the journey itself.  
 
-1. In the journey designer, click the **plus icon (+)** under the Contact Created tile.
+1. In the journey designer, click the **plus icon (+)** under the Seattle Customers tile.
 
 1. Select **Attribute Branch (Branch based on a specific value).**
 
